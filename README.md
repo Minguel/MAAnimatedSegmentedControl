@@ -5,6 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/MAAnimatedSegmentedControl.svg?style=flat)](http://cocoapods.org/pods/MAAnimatedSegmentedControl)
 [![Platform](https://img.shields.io/cocoapods/p/MAAnimatedSegmentedControl.svg?style=flat)](http://cocoapods.org/pods/MAAnimatedSegmentedControl)
 
+MAAnimatedSegmentedControl is a UIControl based on UISegmentedControl with rounded focus and awesome animation.
+
+<p align="center" >
+	<img src="https://raw.githubusercontent.com/Minguel/MAAnimatedSegmentedControl/master/Screenshots/MAAnimatedSegmentedControl.gif" alt="MAAnimatedSegmentedControl" title="MAAnimatedSegmentedControl">
+</p>
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
