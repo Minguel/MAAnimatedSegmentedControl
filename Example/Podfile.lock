@@ -1,0 +1,14 @@
+PODS:
+  - MAAnimatedSegmentedControl (0.1.0)
+
+DEPENDENCIES:
+  - MAAnimatedSegmentedControl (from `../`)
+
+EXTERNAL SOURCES:
+  MAAnimatedSegmentedControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MAAnimatedSegmentedControl: 4eb9dc5e51fe38481e41db6801c26b87f7d98886
+
+COCOAPODS: 0.39.0

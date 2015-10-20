@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'MAAnimatedSegmentedControl_Example', :exclusive => true do
+  pod "MAAnimatedSegmentedControl", :path => "../"
+end
+
+target 'MAAnimatedSegmentedControl_Tests', :exclusive => true do
+  pod "MAAnimatedSegmentedControl", :path => "../"
+
+  
+end
