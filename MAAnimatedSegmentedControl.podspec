@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "MAAnimatedSegmentedControl"
   
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "UIControl subclass based on Segmented with rebound" 
   s.description      = <<-DESC
   							MAAnimatedSegmentedControl is a UIControl based on
