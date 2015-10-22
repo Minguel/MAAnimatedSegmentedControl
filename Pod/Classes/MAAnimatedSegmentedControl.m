@@ -13,11 +13,6 @@
 @property (nonatomic, strong) NSMutableArray *labels;
 @property (nonatomic, strong) UIView *thumbView;
 
-@property (nonatomic, copy) IBInspectable UIColor *selectedLabelColor;
-@property (nonatomic, copy) IBInspectable UIColor *unselectedLabelColor;
-@property (nonatomic, copy) IBInspectable UIColor *thumbColor;
-@property (nonatomic, copy) IBInspectable UIColor *borderColor;
-
 @end
 
 @implementation MAAnimatedSegmentedControl

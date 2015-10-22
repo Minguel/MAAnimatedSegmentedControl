@@ -17,4 +17,9 @@ IB_DESIGNABLE
 
 @property (nonatomic, readonly) IBInspectable NSUInteger selectedIndex;
 
+@property (nonatomic, copy) IBInspectable UIColor *selectedLabelColor;
+@property (nonatomic, copy) IBInspectable UIColor *unselectedLabelColor;
+@property (nonatomic, copy) IBInspectable UIColor *thumbColor;
+@property (nonatomic, copy) IBInspectable UIColor *borderColor;
+
 @end
